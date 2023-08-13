@@ -13,4 +13,4 @@ elif MANI=="64bit":
 
 	
 
-    __import__("Sana")￼Enter
+    __import__("Sana")
